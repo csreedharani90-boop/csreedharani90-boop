@@ -1,3 +1,63 @@
+# Hi, I'm SREE DHARANI C 👋
+
+### Electronics & Communication Engineering Student | Embedded Systems | Software Development | AI
+
+I'm an aspiring Embedded Engineer interested in building intelligent systems that combine **electronics, software, AI and IoT**.
+
+## 🚀 What I'm Working On
+
+* 🔌 Embedded Systems & ESP32
+* 🤖 Artificial Intelligence
+* 🌐 Web Development
+* 📊 Data Structures & Algorithms
+* ☁️ Firebase & IoT
+* 💻 Software Development
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* C
+* C++
+* Java
+  
+**Web & Backend**
+
+* HTML
+* CSS
+* JavaScript
+* Firebase
+
+**Embedded**
+
+* Arduino
+* ESP32
+* Sensors
+* IoT
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+## ⭐ Featured Projects
+
+### 🏆 Place Pro
+
+A student-focused platform for internships, placement preparation, aptitude practice and coding preparation.
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Full Stack Development
+* AI/ML
+* Embedded Systems
+* IoT
+
+## 🎯 Career Goal
+
+To become a skilled engineer working at the intersection of **Embedded Systems, Software and Artificial Intelligence**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/c-sree-dharani-6700083aa?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@C SREE DHARANI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:csreedharani90@gmail.com) 
