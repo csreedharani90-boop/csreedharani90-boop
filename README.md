@@ -1,64 +1,49 @@
 # Hi, I'm SREE DHARANI C 👋
 
-### Electronics & Communication Engineering Student | Embedded Systems | Software Development | AI
+### ECE Student | Embedded Systems | AI & IoT | Software Development
 
-I'm an aspiring Embedded Engineer interested in building intelligent systems that combine **electronics, software, AI and IoT**.
+I'm an Electronics & Communication Engineering student passionate about building intelligent solutions that combine **electronics, software, artificial intelligence, and IoT**.
 
 ## 🚀 What I'm Working On
 
-* 🔌 Embedded Systems & ESP32
-* 🤖 Artificial Intelligence
-* 🌐 Web Development
-* 📊 Data Structures & Algorithms
-* ☁️ Firebase & IoT
-* 💻 Software Development
+- 🔌 Embedded Systems & ESP32
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Web Development
+- 📊 Data Structures & Algorithms
+- ☁️ Firebase & IoT
+- 💻 Software Development
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-**Languages**
+- **Programming:** C, C++, Java
+- **Web Development:** HTML, CSS, JavaScript, React, Node.js
+- **Database & Cloud:** Firebase, MongoDB
+- **Embedded:** Arduino, ESP32, Sensors, Microcontrollers
+- **Tools:** Git, GitHub, VS Code, Canva
 
-* C
-* C++
-* Java
-  
-**Web & Backend**
-
-* HTML
-* CSS
-* JavaScript
-* Firebase
-
-**Embedded**
-
-* Arduino
-* ESP32
-* Sensors
-* IoT
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
 ### 🏆 Place Pro
-
-A student-focused platform for internships, placement preparation, aptitude practice and coding preparation.
+A student-focused platform for **placement preparation, internship opportunities, aptitude practice, coding practice, and career development**.
 
 ## 📚 Currently Learning
 
-* Data Structures & Algorithms
-* Full Stack Development
-* AI/ML
-* Embedded Systems
-* IoT
+- Data Structures & Algorithms
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+- Embedded Systems
+- IoT
+- Problem Solving
 
 ## 🎯 Career Goal
 
-To become a skilled engineer working at the intersection of **Embedded Systems, Software and Artificial Intelligence**.
+To build a strong career at the intersection of **Embedded Systems, Software Development, Artificial Intelligence, and IoT**, and contribute to innovative real-world engineering solutions.
 
+## 💡 Areas of Interest
+
+🔌 Embedded Systems • 🤖 AI/ML • 🌐 IoT • 💻 Software Development • 📊 DSA • ⚙️ Electronics & Automation
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/c-sree-dharani-6700083aa?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@C SREE DHARANI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:csreedharani90@gmail.com) 
 
