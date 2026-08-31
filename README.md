@@ -82,17 +82,19 @@ To build a strong career at the intersection of **Embedded Systems, Software Dev
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
+💻 **Repositories:** 3+
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csreedharani90-boop&show_icons=true&theme=dark&hide_border=false)
+🔥 **Currently building:** Placement & Embedded Systems projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csreedharani90-boop&layout=compact&theme=dark&hide_border=false)
+📚 **Practicing:** Data Structures & Algorithms
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=csreedharani90-boop&theme=dark&hide_border=false)
+🤖 **Exploring:** AI, IoT & Embedded Systems
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=csreedharani90-boop&color=blue&style=for-the-badge)
 
 ⭐ Thanks for visiting my profile!
+
