@@ -21,7 +21,7 @@ I'm an Electronics & Communication Engineering student passionate about building
 - **Embedded:** Arduino, ESP32, Sensors, Microcontrollers
 - **Tools:** Git, GitHub, VS Code, Canva
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🏆 Place Pro
 A student-focused platform for **placement preparation, internship opportunities, aptitude practice, coding practice, and career development**.
