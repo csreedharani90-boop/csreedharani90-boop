@@ -16,7 +16,7 @@ I'm an Electronics & Communication Engineering student passionate about building
 ## 🛠️ Skills & Technologies
 
 - **Programming:** C, C++, Java
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js
+- **Web Development:** HTML, CSS, JavaScript
 - **Database & Cloud:** Firebase, MongoDB
 - **Embedded:** Arduino, ESP32, Sensors, Microcontrollers
 - **Tools:** Git, GitHub, VS Code, Canva
