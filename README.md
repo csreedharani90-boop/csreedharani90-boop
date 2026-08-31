@@ -16,14 +16,15 @@ I'm an Electronics & Communication Engineering student passionate about building
 ## 🛠️ Skills & Technologies
 
 - **Programming:** C, C++, Java
-- **Web Development:** HTML, CSS ,JavaScript 
+- **Web Development:** HTML, CSS, JavaScript
 - **Database & Cloud:** Firebase
 - **Embedded:** Arduino, ESP32, Sensors, Microcontrollers
 - **Tools:** Git, GitHub, VS Code, Canva
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🏆 Place Pro
+
 A student-focused platform for **placement preparation, internship opportunities, aptitude practice, coding practice, and career development**.
 
 ## 📚 Currently Learning
@@ -42,6 +43,7 @@ To build a strong career at the intersection of **Embedded Systems, Software Dev
 ## 💡 Areas of Interest
 
 🔌 Embedded Systems • 🤖 AI/ML • 🌐 IoT • 💻 Software Development • 📊 DSA • ⚙️ Electronics & Automation
+
 ---
 
 ## 🌐 Connect With Me
@@ -49,25 +51,6 @@ To build a strong career at the intersection of **Embedded Systems, Software Dev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-sree-dharani-6700083aa/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csreedharani90@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-### Programming
-C • C++ • Java
-
-### Web Development
-HTML • CSS • JavaScript 
-
-### Database & Cloud
-Firebase 
-
-### Embedded & IoT
-Arduino • ESP32 • Sensors • Microcontrollers
-
-### Tools
-Git • GitHub • VS Code • Canva
 
 ---
 
@@ -86,8 +69,3 @@ Git • GitHub • VS Code • Canva
 ![Profile Views](https://komarev.com/ghpvc/?username=csreedharani90-boop&style=for-the-badge)
 
 ⭐ Thanks for visiting my profile!
-
-
-
-
-
